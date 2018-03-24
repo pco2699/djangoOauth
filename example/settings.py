@@ -268,9 +268,6 @@ USE_L10N = True
 USE_TZ = True
 
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '450658645590-8v7pofinhei7ompm1m7vboo9v311a9a2.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'fYVI3fbRRr9OzU8LQkKLRuNU'
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
